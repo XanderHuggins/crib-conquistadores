@@ -16,7 +16,6 @@
 Rules:
 * best out of 3
 * you get 🦨'ed ... you lose 🤷
-* bring coffee to ELWB210 if you want to join
+* bring snacks or free coffee to ELWB210 if you want to join, no exceptions
 
 <iframe src="https://storage.googleapis.com/misc-sharing/vic-map-crib.html" style="width: 100%; height: 650px; border: 0px"> </iframe>
-
