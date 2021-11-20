@@ -6,7 +6,7 @@
 </p>
 
 
-Current conquistadores:
+#### Current conquistadores:
 <p align="center">
   <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/alex.png" width="10%" style="padding-right:10px" />
   <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/xander.png" width="10%" style="padding-right:10px" />
@@ -15,7 +15,8 @@ Current conquistadores:
 
 Rules:
 * best out of 3
-* you get 🦨'ed ... you lose ¯\_(ツ)_/¯
+* you get 🦨'ed ... you lose 🤷
+* bring coffee to ELWB210 if you want to join
 
-<iframe src="https://storage.googleapis.com/misc-sharing/vic-map-crib.html" style="width: 100%; height: 400px; border: 0px"> </iframe>
+<iframe src="https://storage.googleapis.com/misc-sharing/vic-map-crib.html" style="width: 100%; height: 650px; border: 0px"> </iframe>
 
