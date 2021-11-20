@@ -17,5 +17,5 @@ Rules:
 * best out of 3
 * you get 🦨'ed ... you lose
 
-<iframe src="https://storage.googleapis.com/misc-sharing/vic-map-crib.html" width="100%" frameborder=0</iframe>
+<iframe src="https://storage.googleapis.com/misc-sharing/vic-map-crib.html" width="100%" frameborder="0"</iframe>
 
