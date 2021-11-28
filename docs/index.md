@@ -15,9 +15,13 @@
   <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/david.png" width="10%" style="padding-right:10px" />
 </p>
 
-Rules:
-* best out of 3
-* you get 🦨'ed ... you lose 🤷
-* bring snacks or free coffee to ELWB210 if you want to join, no exceptions
+Notionally interested conquistadores: Marc-Antoine, Jericho.  
+* see rule B and provide a friend who you do or do not trust to find a _flattering_ photo of you that exists on the web 
+
+*CRIB rules*:
+* C (is for conquering): best out of 3 games, but ????'ing is automatic victory
+* R (is for region): games have to be played in the neighbourhood being contested
+* I (is for other info): a neighbourhood is un-challengeable for 1 month after it is won and challenges need to be accepted within 2 weeks
+* B is for bring snacks or free coffee to ELWB210 if you want to join, no exceptions
 
 <iframe src="https://storage.googleapis.com/misc-sharing/vic-map-crib.html" style="width: 100%; height: 650px; border: 0px"> </iframe>
