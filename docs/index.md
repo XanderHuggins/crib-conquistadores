@@ -17,9 +17,10 @@
 
 Notionally interested conquistadores: Marc-Antoine, Jericho.  
 * see rule B and provide a friend who you do or do not trust to find a _flattering_ photo of you that exists on the web 
+<br/><br/>
 
-*CRIB rules*:
-* C (is for conquering): best out of 3 games, but ????'ing is automatic victory
+**CRIB rules**:
+* C (is for conquering): best out of 3 games, but 🦨'ing is automatic victory
 * R (is for region): games have to be played in the neighbourhood being contested
 * I (is for other info): a neighbourhood is un-challengeable for 1 month after it is won and challenges need to be accepted within 2 weeks
 * B is for bring snacks or free coffee to ELWB210 if you want to join, no exceptions
