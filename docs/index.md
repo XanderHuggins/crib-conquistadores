@@ -16,7 +16,7 @@
 </p>
 
 Notionally interested conquistadores: Marc-Antoine, Jericho.  
-* see rule B and provide a friend who you do or do not trust to find a _flattering_ photo of you that exists on the web 
+* see rule B and provide a friend who you do or do not trust to find a _flattering_ photo of your likeness on the internet or by other sketchy means  
 <br/><br/>
 
 **CRIB rules**:
