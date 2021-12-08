@@ -23,7 +23,7 @@ Notionally interested conquistadores: Marc-Antoine, Jericho.
 **CRIB rules**:
 * C (is for conquering): best out of 3 games, but 🦨'ing is automatic victory
 * R (is for region): games have to be played in the neighbourhood being contested
-* I (is for info, all other info): a neighbourhood is un-challengeable for 1 week after it is won and challenges need to be accepted within 2 weeks. All other rules will be decided ad hoc by the Cribbage Conquistadores Tribunal, with every conflict of interest imaginable
+* I (is for info, all other info): a neighbourhood is un-challengeable for 1 week after it is won and challenges need to be accepted within 2 weeks. All other rules will be decided by the Cribbage Conquistadores Tribunal, with every conflict of interest imaginable
 * B (is for bring snacks to me): bring snacks or coffee to ELWB210 if you want to join, no exceptions
 
 <iframe src="https://storage.googleapis.com/misc-sharing/vic-map-crib.html" style="width: 100%; height: 650px; border: 0px"> </iframe>
