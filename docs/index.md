@@ -16,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/xander.png" width="10%" style="padding-right:10px" />
 </p>
 
-Notionally interested conquistadores: Marc-Antoine, Jericho.  
+To interested future conquistadores:   
 * see rule B and provide a friend who you do or do not trust to find a _flattering_ photo of your likeness on the internet or by other sketchy means  
 <br/><br/>
 
