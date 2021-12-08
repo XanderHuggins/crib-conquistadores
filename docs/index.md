@@ -9,10 +9,11 @@
 #### Current conquistadores:
 <p align="center">
   <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/alex.png" width="10%" style="padding-right:10px" />
-  <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/xander.png" width="10%" style="padding-right:10px" />
-  <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/devon.png" width="10%" style="padding-right:10px" />
-  <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/kirsten.png" width="10%" style="padding-right:10px" />
   <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/david.png" width="10%" style="padding-right:10px" />
+  <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/devon.png" width="10%" style="padding-right:10px" />
+  <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/jericho.png" width="10%" style="padding-right:10px" />
+  <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/kirsten.png" width="10%" style="padding-right:10px" />
+  <img src="https://raw.githubusercontent.com/XanderHuggins/crib-conquistadores/master/assets/xander.png" width="10%" style="padding-right:10px" />
 </p>
 
 Notionally interested conquistadores: Marc-Antoine, Jericho.  
