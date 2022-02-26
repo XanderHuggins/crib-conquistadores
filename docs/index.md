@@ -26,4 +26,4 @@ To interested future conquistadores:
 * I (is for info, all other info): a neighbourhood is un-challengeable for 1 week after it is won and challenges need to be accepted within 2 weeks. All other rules will be decided by the Cribbage Conquistadores Tribunal, with every conflict of interest imaginable
 * B (is for bring snacks to me): bring snacks or coffee to ELWB210 if you want to join, no exceptions
 
-<iframe src="https://storage.googleapis.com/misc-sharing/vic-map-crib.html" style="width: 100%; height: 650px; border: 0px"> </iframe>
+<iframe src="https://storage.googleapis.com/misc-sharing/vic-map-crib-2-26-22.html" style="width: 100%; height: 650px; border: 0px"> </iframe>
